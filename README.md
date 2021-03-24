@@ -1,0 +1,2 @@
+# OpenApiToUnityCSharpModelGenerator
+OpenApiからUnity向けのモデルを生成するツールの開発リポジトリっす
